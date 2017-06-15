@@ -18,7 +18,7 @@ Rotate Tool | E | Rotate selected object(s).
 Scale Tool | R | Scale selected object(s).
 Last Used Tool | Y | Use last tool used on selected object(s)
 Soft Selection | B | Modify object components with a range of influence.
-Change Range of Soft Selection | Hold B + LMB Drag | Modifies range of influence to increase/decrease. 
+Change Range of Soft Selection | Hold B + LMB Drag | Modifies range of influence to increase/decrease.
 
 Display Tools | Path | Description
 ------------- | ---- | -----------
@@ -31,3 +31,8 @@ Other Tools | Path | Description
 Hotbox | Hold Space | Shortcut menu.
 Panel Layout | Space | Shows all four panels with different views.
 Component Menu | Hold LMB | Shortcut menu with Component Mode Selection options.
+
+## Backface Culling
+1. Create a Polygon cube.
+2. Select Mesh Display -> Reverse.
+3. Select Display -> Polygons -> Backface Culling.
