@@ -1,4 +1,4 @@
-# 3D-crystal-ball
+## 3D Crystal Ball
 
 ## Introduction
 
@@ -8,6 +8,7 @@
 * Hypershade Editor
 * Environmental Lighting
 * nCloth
+* Materials
 
 ## Part I: Fortune Telling Table!
 1. Create a fortune telling table using a shape from the Polygon Shelf.

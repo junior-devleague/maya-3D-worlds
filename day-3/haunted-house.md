@@ -1,4 +1,9 @@
-#haunted-house
+## Haunted House
+
+## Concepts/Items Covered
+* Keyframe Animations
+* Sculpting
+* Box Modeling
 
 ## Introduction
 You are in charge of prepping the haunted house for this year's October Festival. Make it scary!
